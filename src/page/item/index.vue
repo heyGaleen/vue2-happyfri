@@ -13,7 +13,7 @@ export default {
    		itemcontainer
   	},
   	created(){
-			console.log('hello wor')
+			console.log('hello worl')
       //进入题目页面，开始计时
   		this.$store.commit('REMBER_TIME');
   	}
