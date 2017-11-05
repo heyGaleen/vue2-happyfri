@@ -13,7 +13,7 @@ export default {
   		itemcontainer
   	},
     created(){
-        
+        console.log(1111)
     }
 }
 </script>
